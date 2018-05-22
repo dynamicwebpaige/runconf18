@@ -3,7 +3,7 @@
 
 ----------------------------------
 
-Machine learning systems often inherit biases against protected classes and historically disparaged groups via their training data [1](https://arxiv.org/pdf/1707.08120.pdf). Though some biases in features are straightforward to detect (ex: age, gender, race), others are not explicit and rely on subtle correlations in machine learning algorithms to detect. The incorporation of unintended bias into predictive models is called _proxy discrimination_.
+Machine Learning systems often inherit biases against protected classes and historically disparaged groups via their training data [[1]](https://arxiv.org/pdf/1707.08120.pdf). Though some biases in features are straightforward to detect (ex: age, gender, race), others are not explicit and rely on subtle correlations in machine learning algorithms to detect. The incorporation of unintended bias into predictive models is called _proxy discrimination_.
 
 ---------------------
 
